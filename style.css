@@ -10,8 +10,8 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background : rgb(104, 94, 237);
-    background: linear-gradient(90deg, rgb(160, 156, 218) 10%, rgb(118, 213, 227) 100%, rgba(81,81,224,1) 100%);
+    background : rgb(213, 249, 95);
+    background: linear-gradient(90deg, rgb(235, 231, 160) 10%, rgb(229, 235, 80) 100%, rgba(81,81,224,1) 100%);
    
 }
 
